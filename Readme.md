@@ -1,6 +1,12 @@
 ### bs4 workshop
 > Beautiful workshop
 
+### Install libraries
 ```
-python3 extract_attribute_value.py
+pip3 install -r requirements.txt
+```
+
+### runner
+```
+python3 library/get_value.py
 ```
